@@ -7,3 +7,5 @@ at two different temperatures: above and below the critical Tc ≈ 2.27. We use 
 two types of neural networks in order to predict exact temperatures for different phases. It can bee
 seen from the results that an approach with only two temperatures provides not enough reliable
 predictions. The accuracy can be improved using more temperatures for training of the network.
+
+The code fully works in Google Collab, I didn't debugged it yet to compile here :)
