@@ -8,4 +8,4 @@ two types of neural networks in order to predict exact temperatures for differen
 seen from the results that an approach with only two temperatures provides not enough reliable
 predictions. The accuracy can be improved using more temperatures for training of the network.
 
-The code fully works in Google Collab, I didn't debugged it yet to compile here :)
+The code fully works in Google Collab, I didn't debug it yet to compile here :)
